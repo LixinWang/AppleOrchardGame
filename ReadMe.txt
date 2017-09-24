@@ -1,15 +1,11 @@
-/* ============================================================================
-	APPLE ORCHARD GAME
-	CS 2261 Final Project
-	By Lixin Wang
-============================================================================ */
-
-/* README =====================================================================
+APPLE ORCHARD GAME
  
  This is a game where the player must catch apples with a basket to make
  apple pies.
+ 
+** FOR INSTALLATION INSTRUCTIONS, READ GBA-Setup-Instructions.txt
 
-** DETAILED INSTRUCTIONS: HOW TO PLAY =========================================
+================================= HOW TO PLAY =================================
 
  - Press the left and right keys to move the basket.
  - In order to score points, the player must press [A] to empty the basket
@@ -33,16 +29,4 @@
 
  - ** CHEAT: (Only once per game) Press the UP button 5 times during the
    game to get an extra life!
-
-** KNOWN BUGS =================================================================
-
- - Sounds get static-y after a few loops, but TAs said not to worry about it
-
-** POSSIBLE EXTRA CREDIT ======================================================
-
- - Neat graphics (I drew all of the sprites by hand...took 5ever)
- - General coolness ??? :-)
- - Good organization of code (sorted into different files and included
- extensive comments for every function)
-============================================================================ */
 
