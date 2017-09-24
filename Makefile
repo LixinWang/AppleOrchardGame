@@ -1,5 +1,5 @@
-PRODUCT_NAME       = hw04
-SOURCES            = hw04.c myLib.c text.c
+PRODUCT_NAME       = LixinWang_AppleOrchard
+SOURCES            = main.c myLib.c menubg.c instructbg.c game.c pausebg.c endbg.c frontTrees1.c farm.c appleSprites2.c menuSong.c instructSong.c gameSong.c endSong.c collectApple.c badApple.c grow.c shrink.c makePie.c gainLifeSFX.c
 DKPATH             = /Users/lixin/Documents/CS2261/devkitARM/bin
 CCPATH             = /usr/bin
 VBASIM             = /Applications/BoycottAdvance.app/Contents/MacOS/Boycott\ Advance
