@@ -1,11 +1,12 @@
-APPLE ORCHARD GAME
+# APPLE ORCHARD GAME
  
- This is a game where the player must catch apples with a basket to make
- apple pies.
+This is a GameBoy game where the player must catch apples with a basket to make apple pies.
  
-** FOR INSTALLATION INSTRUCTIONS, READ GBA-Setup-Instructions.txt
+Run *LixinWang - AppleOrchard.gba* to play
+ 
+For GameBoy emulator installation instructions, read *GBA-Setup-Instructions.txt*
 
-================================= HOW TO PLAY =================================
+### HOW TO PLAY
 
  - Press the left and right keys to move the basket.
  - In order to score points, the player must press [A] to empty the basket
@@ -27,6 +28,6 @@ APPLE ORCHARD GAME
  lose a life each time a rotten apple is caught.
  - Apples will fall progressively faster and faster as the game goes on!
 
- - ** CHEAT: (Only once per game) Press the UP button 5 times during the
+ - **CHEAT**: (Only once per game) Press the UP button 5 times during the
    game to get an extra life!
 
